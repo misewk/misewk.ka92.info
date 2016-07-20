@@ -1,0 +1,200 @@
+/* наша HTML таблица */
+table.sort{
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+}
+
+
+/* заголовки таблицы */
+table.sort thead td{
+/*cursor:pointer;*/
+background-color:#AAAAAA;
+cursor:hand;
+font-weight:bold;
+text-align:center;
+vertical-align:middle
+}
+
+/* заголовок отсортированного столбца */
+table.sort thead td.curcol{
+background-color:A0A0A0;
+color:#222222
+}
+
+.prognoz {
+font-size:14;
+}
+
+.ttitle
+    {
+    font-size: 16px;
+    font-weight:600;
+    padding:4px;
+    background: #ccc;
+    border-bottom: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+    }
+
+.mprognoz
+    {
+    border:#666 3px double;
+    }
+
+.mprognoz th
+   {
+   border-bottom: 1px solid #666;
+   background: #aaa;
+   }
+
+.mprognoz td
+   {
+   border: 1px dashed #999;
+   }
+
+.info
+    {
+    border:1px solid #000;
+    padding:10px;
+    border-top:0;
+    border-left:0;
+    }
+
+.main_body
+{
+    background-color: #C0C0C0;
+}
+
+.common_table
+{
+    border: 0px;
+    width: 100%;
+    padding: 0px;
+    border-spacing: 0px;
+    border-collapse: separate;
+}
+
+.content_center
+{
+    text-align: center;
+}
+
+.content_right
+{
+    text-align: right;
+}
+
+.content_left
+{
+    text-align: left;
+}
+.content_height5
+{
+    height: 5px;
+}
+
+.content_height1
+{
+    height: 1px;
+}
+
+.height30
+{
+    height: 30px;
+}
+
+.height15
+{
+    height: 15px;
+}
+
+.height10
+{
+    height: 10px;
+}
+
+.content_vmiddle
+{
+    vertical-align: middle;
+}
+
+.main_table
+{
+    border: 0px;
+    width: 100%;
+    text-align: center;
+    padding: 0px;
+    border-spacing: 1px;
+    border-collapse: separate;
+    background-color:  #FFFFFF;
+}
+
+.background_black
+{
+    background-color: black;
+}
+
+.b
+{ 
+    font-weight: bold;
+}
+
+.red
+{ 
+    color: red;
+}
+
+.size4
+{ 
+    font-size: 25px;
+}
+
+.size45
+{ 
+    font-size: 45px;
+}
+
+.gold
+{ 
+    background-color: #ffff99;
+}
+
+.silver
+{ 
+    background-color: #bbddff;
+}
+
+.bronze
+{ 
+    background-color: #cccc99;
+}
+
+.odd
+{ 
+    background-color: #dddddd;
+}
+
+.even
+{ 
+    background-color: #eeeeee;
+}
+
+.darkgrey
+{ 
+    background-color: #ECECEC;
+}
+
+.wright_result
+{ 
+    color: #B87333;
+}
+
+.wright_score
+{ 
+    color: #0000FF;
+}
+
+.menu_color
+{ 
+    color: #666666;
+}

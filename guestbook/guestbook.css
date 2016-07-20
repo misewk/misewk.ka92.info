@@ -1,0 +1,37 @@
+
+a:link, a:visited{ text-decoration: none; font-size: 12px; color: #222;}
+a:hover {text-decoration: none; font-size: 12px; color: #4A51A5;}/*4A51A5*/
+
+
+.g_table {
+border-width: 1px;
+border-style: solid;
+border-color: #666666;
+}
+
+
+.g_date {
+    color : #336699;
+    font-weight : bold;
+    font-size: 11px;
+}
+
+.g_top {
+    background-color: #CFCFCF;
+}
+
+.g_nav {
+    color: #000;
+    font-size: 14px;
+    font-weight : bold;
+}
+.g_text {
+    color : #222222;
+    background-color: #EFEFEF;
+}
+.g_sep {
+    background-color: #AAA;
+}   
+
+input, textarea {background-color: #EBF3F6;font-size: 12px;font-weight: bold;border-width: 2px;border-style: solid;border-left-color: #C5DBE4;border-top-color: #C5DBE4;border-right-color: #FFFFFF;border-bottom-color: #FFFFFF;}
+input.btn {background-color: #6DC3E4;border-left-color: #A7E3FA;border-top-color: #A7E3FA;border-right-color: #2B8CB0;border-bottom-color: #2B8CB0;}
